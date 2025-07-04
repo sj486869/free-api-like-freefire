@@ -10,3 +10,5 @@ waitress
 python-dotenv
 gunicorn
 discord
+asyncio
+datetime
